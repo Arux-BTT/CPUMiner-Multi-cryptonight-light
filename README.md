@@ -1,0 +1,1 @@
+# CPUMiner-Multi-cryptonight-light
